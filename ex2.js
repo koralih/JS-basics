@@ -20,6 +20,7 @@ function hh() {
             window.location.href = "admin.html"
         else { localStorage.setItem("con", JSON.stringify(z)) 
         window.location.href = "ok.html";}
+        //ay hkeya
     }
 
     else
